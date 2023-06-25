@@ -1,0 +1,11 @@
+Docker setup:
+
+Terminal:
+
+Check Port available :
+$ docker ps
+$ docker stop d00748e1bc5f
+
+$ cd desktop
+$ docker-compose -f docker-compose.yaml up
+
